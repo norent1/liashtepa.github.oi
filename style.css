@@ -1,0 +1,11 @@
+.hero {
+    height: 100vh;
+    background: url("img/heroback.jpg") center/cover no-repeat;
+    color: white;
+}
+
+.hero-box {
+    background: rgba(0,0,0,0.6);
+    padding: 40px;
+    border-radius: 10px;
+}
